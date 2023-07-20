@@ -18,9 +18,7 @@
   </a>
 </p>
 
-<a href="https://github.com/cr1c4/azure-calculator-fields/blob/main/Genericos/Region/Region.md">  
-    <button>Region</button>
-</a> 
+[Region]("https://github.com/cr1c4/azure-calculator-fields/blob/main/Genericos/Region/Region.md")
 
 
 **Operating system (Sistema Operativo):**

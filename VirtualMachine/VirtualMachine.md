@@ -13,9 +13,7 @@
 ---
 
 <p>
-  <a href="img2.jpeg">
-    <img src="img2.jpeg" alt="img2.jpeg" width="1500" />
-  </a>
+<a href="img2.jpeg"><img src="img2.jpeg" alt="img2.jpeg" width="1500" /></a>
 </p>
 
 [Region](https://github.com/cr1c4/azure-calculator-fields/blob/main/Genericos/Region/Region.md)

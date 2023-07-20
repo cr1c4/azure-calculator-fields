@@ -4,4 +4,4 @@ Una región en Azure es una zona geográfica que contiene al menos un centro de 
 
 **Tools**
 
-**[Azure Latency Test]("https://www.azurespeed.com/Azure/Latency"):** es una herramienta para medir la latencia de red entre una ubicación y las regiones de Azure. Es importante para los arquitectos al dimensionar un escenario para un cliente porque ayuda a optimizar el rendimiento de la aplicación, mejora la experiencia del usuario y puede ayudar a cumplir con los requisitos de los acuerdos de nivel de servicio (SLA). La elección de la región de Azure con la menor latencia puede resultar en una aplicación más rápida y receptiva.
+**[Azure Latency Test](https://www.azurespeed.com/Azure/Latency):** es una herramienta para medir la latencia de red entre una ubicación y las regiones de Azure. Es importante para los arquitectos al dimensionar un escenario para un cliente porque ayuda a optimizar el rendimiento de la aplicación, mejora la experiencia del usuario y puede ayudar a cumplir con los requisitos de los acuerdos de nivel de servicio (SLA). La elección de la región de Azure con la menor latencia puede resultar en una aplicación más rápida y receptiva.

@@ -17,17 +17,9 @@
 </p>
 
 [Region](https://github.com/cr1c4/azure-calculator-fields/blob/main/Genericos/Region/Region.md)
+[Operating System](https://github.com/cr1c4/azure-calculator-fields/blob/main/Genericos/OperateSystem/OperateSystem.md)
+[Type](https://github.com/cr1c4/azure-calculator-fields/blob/main/Genericos/Type/Type.md)
+[Tier](https://github.com/cr1c4/azure-calculator-fields/blob/main/Genericos/Tier/Tier.md)
 
-Hola mundo
-
-**Operating system (Sistema Operativo):**
-* Linux
-* Windows
-
-azure-calculator-fields
-
-**Type(Tipo):**
-
-* (OS Only)
 
 ---
